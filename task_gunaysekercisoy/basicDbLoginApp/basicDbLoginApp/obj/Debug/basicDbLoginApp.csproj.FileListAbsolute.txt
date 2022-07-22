@@ -1,0 +1,12 @@
+C:\Users\acrom\Desktop\Projeler\18 Temmuz\basicDbLoginApp\basicDbLoginApp\bin\Debug\basicDbLoginApp.exe.config
+C:\Users\acrom\Desktop\Projeler\18 Temmuz\basicDbLoginApp\basicDbLoginApp\bin\Debug\basicDbLoginApp.exe
+C:\Users\acrom\Desktop\Projeler\18 Temmuz\basicDbLoginApp\basicDbLoginApp\bin\Debug\basicDbLoginApp.pdb
+C:\Users\acrom\Desktop\Projeler\18 Temmuz\basicDbLoginApp\basicDbLoginApp\obj\Debug\basicDbLoginApp.csproj.AssemblyReference.cache
+C:\Users\acrom\Desktop\Projeler\18 Temmuz\basicDbLoginApp\basicDbLoginApp\obj\Debug\basicDbLoginApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\acrom\Desktop\Projeler\18 Temmuz\basicDbLoginApp\basicDbLoginApp\obj\Debug\basicDbLoginApp.Form1.resources
+C:\Users\acrom\Desktop\Projeler\18 Temmuz\basicDbLoginApp\basicDbLoginApp\obj\Debug\basicDbLoginApp.Form2.resources
+C:\Users\acrom\Desktop\Projeler\18 Temmuz\basicDbLoginApp\basicDbLoginApp\obj\Debug\basicDbLoginApp.Properties.Resources.resources
+C:\Users\acrom\Desktop\Projeler\18 Temmuz\basicDbLoginApp\basicDbLoginApp\obj\Debug\basicDbLoginApp.csproj.GenerateResource.cache
+C:\Users\acrom\Desktop\Projeler\18 Temmuz\basicDbLoginApp\basicDbLoginApp\obj\Debug\basicDbLoginApp.csproj.CoreCompileInputs.cache
+C:\Users\acrom\Desktop\Projeler\18 Temmuz\basicDbLoginApp\basicDbLoginApp\obj\Debug\basicDbLoginApp.exe
+C:\Users\acrom\Desktop\Projeler\18 Temmuz\basicDbLoginApp\basicDbLoginApp\obj\Debug\basicDbLoginApp.pdb
